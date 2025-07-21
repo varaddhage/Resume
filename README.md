@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Varad Dhage
 
-🎯 **Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Developer**
+🎯 Aspiring Data Analyst | Machine Learning Enthusiast | Power BI Developer
 
 📫 Contact:  
 - 📧 Email: [varadd2004@gmail.com](mailto:varadd2004@gmail.com)  
